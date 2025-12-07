@@ -15,7 +15,7 @@ Example setup:
 ```bash
 # Set local git config (do not use --global)
 git config --local user.name "gaute-bot"
-git config --local user.email "bri.mabry.edwards@gmail.com"
+git config --local user.email "bri.anmabryedwards@gmail.com"
 
 # Switch gh CLI to gaute-bot
 gh auth switch --user gaute-bot
@@ -27,7 +27,7 @@ gh auth status
 ```
 
 **IMPORTANT - Correct Email:**
-- Always use: `bri.mabry.edwards@gmail.com`
+- Always use: `bri.anmabryedwards@gmail.com`
 - DO NOT use noreply format or ID-based emails
 - This email is public in commits (not a secret)
 
