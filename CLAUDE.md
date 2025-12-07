@@ -15,15 +15,21 @@ Example setup:
 ```bash
 # Set local git config (do not use --global)
 git config --local user.name "gaute-bot"
-git config --local user.email "166941051+gaute-bot@users.noreply.github.com"
+git config --local user.email "bri.mabry.edwards@gmail.com"
 
 # Switch gh CLI to gaute-bot
 gh auth switch --user gaute-bot
 
 # Verify configuration
 git config user.name
+git config user.email
 gh auth status
 ```
+
+**IMPORTANT - Correct Email:**
+- Always use: `bri.mabry.edwards@gmail.com`
+- DO NOT use noreply format or ID-based emails
+- This email is public in commits (not a secret)
 
 ### Rate Limit Monitoring
 gaute-bot currently has restricted API rate limits:
