@@ -3,3 +3,5 @@ This file contains notes about implementing user authentication.
 - OAuth 2.0 support
 - JWT token management
 - Session handling
+- Two-factor authentication
+- Password reset functionality

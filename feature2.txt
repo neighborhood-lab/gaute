@@ -3,3 +3,5 @@ This file contains notes about data export functionality.
 - CSV export
 - JSON export
 - PDF reports
+- Excel spreadsheet export
+- Scheduled exports
