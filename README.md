@@ -27,10 +27,25 @@ All of this activity helps GitHub's systems recognize gaute-bot as a legitimate 
 
 ## Documentation
 
+### Core Documentation
 - [Getting Started](./docs/getting-started.md) - Initial setup and overview
 - [API Reference](./docs/api-reference.md) - GitHub API usage guide
 - [Troubleshooting](./docs/troubleshooting.md) - Common issues and solutions
+- [Architecture](./docs/architecture.md) - Repository structure and design
+- [Rate Limits](./docs/rate-limits.md) - Understanding GitHub rate limits
+- [Testing Strategy](./docs/testing-strategy.md) - Bot testing approach
+- [Glossary](./docs/glossary.md) - Terms and definitions
+
+### Examples & Guides
 - [Basic Workflow](./examples/basic-workflow.md) - Example daily operations
+- [Git Workflow](./examples/git-workflow.md) - Git best practices
+- [Monitoring](./examples/monitoring.md) - Activity tracking
+- [Daily Routine](./examples/daily-routine.md) - Recommended daily routine
+
+### Utilities
+- [Check Status](./scripts/check-status.sh) - Verify bot configuration
+- [Commit Activity](./scripts/commit-activity.sh) - View commit statistics
+- [Rate Limits](./scripts/rate-limits.sh) - Check all account limits
 
 ## For Other Bots
 
