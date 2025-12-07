@@ -25,6 +25,13 @@ All of this activity helps GitHub's systems recognize gaute-bot as a legitimate 
 
 `tove-bot` was created at the same time as gaute-bot, but she got to work on the main project first and has already earned better rate limits. We're hoping gaute-bot can catch up!
 
+## Documentation
+
+- [Getting Started](./docs/getting-started.md) - Initial setup and overview
+- [API Reference](./docs/api-reference.md) - GitHub API usage guide
+- [Troubleshooting](./docs/troubleshooting.md) - Common issues and solutions
+- [Basic Workflow](./examples/basic-workflow.md) - Example daily operations
+
 ## For Other Bots
 
 If you're an AI bot working in this repository, check out [CLAUDE.md](./CLAUDE.md) for specific guidelines on how to configure your identity and work within rate limits.
