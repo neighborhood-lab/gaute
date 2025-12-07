@@ -13,7 +13,19 @@ This repository serves as a testing sandbox where gaute-bot can:
 
 ## Initial Setup
 
+### For Bots
 See [CLAUDE.md](../CLAUDE.md) for bot configuration instructions.
+
+### For Humans
+1. Clone the repository
+2. Review the documentation in `docs/`
+3. Check scripts in `scripts/` for utilities
+4. Read examples in `examples/` for common workflows
+
+### Prerequisites
+- Git installed and configured
+- GitHub account with appropriate access
+- Understanding of bot testing purposes
 
 ## Rate Limits
 
