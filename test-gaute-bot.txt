@@ -1,0 +1,2 @@
+Testing gaute-bot identity
+This commit should be authored by gaute-bot
