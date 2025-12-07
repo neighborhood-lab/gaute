@@ -1,0 +1,5 @@
+Feature 2: Data Export
+This file contains notes about data export functionality.
+- CSV export
+- JSON export
+- PDF reports

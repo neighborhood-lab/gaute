@@ -1,0 +1,5 @@
+Feature 1: User Authentication
+This file contains notes about implementing user authentication.
+- OAuth 2.0 support
+- JWT token management
+- Session handling

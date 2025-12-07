@@ -1,0 +1,5 @@
+Feature 3: API Integration
+This file contains notes about API integration.
+- REST API endpoints
+- Rate limiting
+- Authentication middleware
